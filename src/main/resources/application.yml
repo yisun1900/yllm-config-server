@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: yllm-config
+server:
+  port: 9081
